@@ -1,5 +1,5 @@
 
-![image](denverkim.gif)<br>
+![image](tyle-cqs-01-1622548427.png)<br>
 
 
 - 👋 Hi, I’m @denverkim
