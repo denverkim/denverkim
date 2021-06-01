@@ -1,4 +1,4 @@
-[![](cqsnz5r1vu9kdp.png)](https://youtu.be/O6AppXa1JCo)
+[![](tyle-cqs-01-1622548427.png)](https://youtu.be/O6AppXa1JCo)
 
 - 👋 Hi, I’m @denverkim
 - 👀 I’m interested in big data, artificial intelligence, and robotic process automation.
