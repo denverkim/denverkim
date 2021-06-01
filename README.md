@@ -7,6 +7,9 @@
   </video>
 </figure>
 
+<figure class="video_container">
+  <iframe src="cqsnz5r1vu9kdp.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 - 👋 Hi, I’m @denverkim
 - 👀 I’m interested in big data, artificial intelligence, and robotic process automation.
