@@ -1,5 +1,5 @@
 
-![image](tyle-cqs-01-1622548427.png)<br>
+[![Hyo-Jeong Kim, Ph.D. in CSIS](tyle-cqs-01-1622548427.png)](https://d2xv1of7wkmu9.cloudfront.net/cards.exports/cq/cqsnz5r1vu9kdp/cqsnz5r1vu9kdp.mp4?_ver=1622548682)
 
 
 - 👋 Hi, I’m @denverkim
