@@ -1,3 +1,7 @@
+
+![image](denverkim.gif)<br>
+
+
 - 👋 Hi, I’m @denverkim
 - 👀 I’m interested in big data, artificial intelligence, and robotic process automation.
 - 🌱 I’m currently learning robotics programming. 
