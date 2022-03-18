@@ -13,8 +13,6 @@
 
 # Contacts
 
-Tel: 010-7295-8242
-
 Email: [hyo-jeong.kim@hotmail.com](mailto:hyo-jeong.kim@hotmail.com)
 
 
