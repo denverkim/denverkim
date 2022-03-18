@@ -6,11 +6,8 @@
 
 [About Me](https://www.notion.so/About-Me-edba7d46c4924b228d00b6b6dde4af44)
 
-<aside>
-📌 Working at Seoul National University of Science and Technology
-</aside>
 
-
+> 📌 Working at Seoul National University of Science and Technology
 
 [CLASSES](https://www.notion.so/4032a943f5f24a2cb90240a3f566232b)
 
@@ -20,22 +17,11 @@ Tel: 010-7295-8242
 
 Email: [hyo-jeong.kim@hotmail.com](mailto:hyo-jeong.kim@hotmail.com)
 
-<aside>
-📌 [Facebook](https://www.facebook.com/denverkimhyojeong/)
 
-</aside>
+> 📌 [Facebook](https://www.facebook.com/denverkimhyojeong/)
 
-<aside>
-📌 [Github](https://github.com/denverkim)
+> 📌 [Github](https://github.com/denverkim)
 
-</aside>
+> 📌 [Kakao Talk](https://open.kakao.com/o/sPHwgpfd)
 
-<aside>
-📌 [Kakao Talk](https://open.kakao.com/o/sPHwgpfd)
-
-</aside>
-
-<aside>
-📌 [LinkedIn](https://www.linkedin.com/in/hyo-jeong-kim/)
-
-</aside>
+> 📌 [LinkedIn](https://www.linkedin.com/in/hyo-jeong-kim/)
