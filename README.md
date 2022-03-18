@@ -10,7 +10,7 @@
 📌 Working at Seoul National University of Science and Technology
 </aside>
 
-<br>
+
 
 [CLASSES](https://www.notion.so/4032a943f5f24a2cb90240a3f566232b)
 
