@@ -7,7 +7,7 @@
 [About Me](https://www.notion.so/About-Me-edba7d46c4924b228d00b6b6dde4af44)
 
 
-> 📌 Working at Seoul National University of Science and Technology
+    📌 Working at Seoul National University of Science and Technology
 
 [CLASSES](https://www.notion.so/4032a943f5f24a2cb90240a3f566232b)
 
