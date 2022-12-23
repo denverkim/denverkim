@@ -4,6 +4,7 @@
 
 
     📌 Working at Seoul National University of Science and Technology
+    
 
  [About Me](https://www.notion.so/About-Me-edba7d46c4924b228d00b6b6dde4af44) |  [Classes Taught](https://www.notion.so/4032a943f5f24a2cb90240a3f566232b)
 
@@ -12,6 +13,4 @@
 Email: [hyo-jeong.kim@hotmail.com](mailto:hyo-jeong.kim@hotmail.com)
 
 
-[Kakao Talk](https://open.kakao.com/o/sPHwgpfd)
-
-[LinkedIn](https://www.linkedin.com/in/hyo-jeong-kim/)
+[Kakao Talk](https://open.kakao.com/o/sPHwgpfd) | [LinkedIn](https://www.linkedin.com/in/hyo-jeong-kim/) | [Facebook](https://www.linkedin.com/in/hyo-jeong-kim/)
