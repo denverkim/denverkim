@@ -1,4 +1,4 @@
-# 덴버킴 / denverkim
+# kim from denver
 
 ### 인공지능, 빅데이터 강사 김효정 입니다~~ ^^
 
