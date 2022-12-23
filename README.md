@@ -13,4 +13,4 @@
 Email: [hyo-jeong.kim@hotmail.com](mailto:hyo-jeong.kim@hotmail.com)
 
 
-[Kakao Talk](https://open.kakao.com/o/sPHwgpfd) | [LinkedIn](https://www.linkedin.com/in/hyo-jeong-kim/) | [Facebook](https://www.linkedin.com/in/hyo-jeong-kim/)
+[Kakao Talk](https://open.kakao.com/o/sPHwgpfd) | [LinkedIn](https://www.linkedin.com/in/hyo-jeong-kim/) | [Facebook](https://www.facebook.com/denverkimhyojeong)
