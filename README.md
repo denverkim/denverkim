@@ -2,11 +2,9 @@
 
 # 👋 안녕하세요! 저는 [덴버킴](https://github.com/denverkim)입니다.
 
-🎓 학력/전공:
-- 콜로라도 대학교 전산정보학 박사
+🎓 학력/전공: 콜로라도 대학교 전산정보학 박사
 
-💼 현재:
-- 서울과학기술대학에서 시간강사 중
+💼 현재: 서울과학기술대학에서 시간강사 중
 
 🧰 사용하는 기술:
 - Languages: Python, JavaScript, Java
@@ -14,11 +12,7 @@
 - Backend: Flask, Django
 - DevOps & Tools: Docker, Git, AWS
 
-📌 관심 분야:
-- 📊 인공지능
-- 📉 빅데이터 분석
-- 🏭 로보틱 프로세스 자동화
-- 📄 데이터 아키텍쳐
+📌 관심 분야: 📊 인공지능, 📉 빅데이터 분석, 🏭 로보틱 프로세스 자동화, 📄 데이터 아키텍쳐
 
 📂 주요 프로젝트:
 - 🌏 [eLmaps (eLearning Maps)]: 미국 대학생들의 인지능력을 향상시키기 위한 Web 2.0 어플리케이션 개발
@@ -27,6 +21,6 @@
 
 📫 연락처:
 - Email: [hyo-jeong.kim@hotmail.com](mailto:hyo-jeong.kim@hotmail.com)
-- Web: [htts://denverkim.com](htts://denverkim.com)
+- Web: [htts://denverkim.com](htts://denverkim.com)  
 
 감사합니다!
