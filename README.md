@@ -20,6 +20,6 @@
   
 📫 연락처:
 - Email: [hyo-jeong.kim@hotmail.com](mailto:hyo-jeong.kim@hotmail.com)
-- Web: [htts://denverkim.com](htts://denverkim.com)    
+- Web: [http://denverkim.com](http://denverkim.com)    
   
 감사합니다!
