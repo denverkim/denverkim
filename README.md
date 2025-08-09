@@ -15,7 +15,7 @@
   
 📂 주요 프로젝트:
 - 🌏 [eLmaps (eLearning Maps)]: 미국 대학생들의 인지능력을 향상시키기 위한 Web 2.0 어플리케이션
-- 🧠 [INIA (Integrated Neuroscience Initiative on Alcoholism)]: 알코올 중독 관련된 형진전환동물 데이터베이스 구축 및 웹 어플리케이션
+- 🧠 [INIA (Integrated Neuroscience Initiative on Alcoholism)]: 알코올 중독 관련된 형질전환동물 데이터베이스 구축 및 웹 어플리케이션
 - 📓[Pre-Admission Counselor] 미국 고등학생들의 적성검사 점수에 따라 전공과 대학을 추천해 주는 전문가 시스템   
   
 📫 연락처:
