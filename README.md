@@ -20,6 +20,7 @@
   
 📫 연락처:
 - Email: [hyo-jeong.kim@hotmail.com](mailto:hyo-jeong.kim@hotmail.com)
+- Tel: 010-7295-8242
 - Web: [http://denverkim.com](http://denverkim.com)    
   
 감사합니다!
