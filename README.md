@@ -11,7 +11,12 @@
 - Backend: Flask, Django
 - DevOps & Tools: Docker, Git, AWS  
   
-📌 관심 분야: 📊 인공지능, 📉 빅데이터 분석, 🏭 로보틱 프로세스 자동화, 📄 데이터 아키텍쳐, 생성형 AI를 이용한 업무 자동화  
+📌 관심 분야: 
+- 📊 인공지능 (AI)
+- 📉 빅데이터 분석 (Big Data Analytics)
+- 🏭 로보틱 프로세스 자동화 (RPA)
+- 📄 데이터 아키텍처 (Data Architecture)
+- 🤖✨ 생성형 AI 기반 업무 자동화 (Generative AI for Automation)
   
 📂 주요 프로젝트:
 - 🌏 [eLmaps (eLearning Maps)]: 미국 대학생들의 인지능력을 향상시키기 위한 Web 2.0 어플리케이션
