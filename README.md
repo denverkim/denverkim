@@ -20,7 +20,7 @@
   
 📫 연락처:
 - Tel: 010-7295-8242
-- Email: [hyo-jeong.kim@hotmail.com](mailto:hyo-jeong.kim@hotmail.com)
+- Email: [hyo-jeong.kim@seoultech.ac.kr](mailto:hyo-jeong.kim@seoultech.ac.kr)
 - Web: [http://denverkim.com](http://denverkim.com)    
   
 감사합니다!
