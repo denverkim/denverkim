@@ -19,8 +19,8 @@
 - 📓[Pre-Admission Counselor] 미국 고등학생들의 적성검사 점수에 따라 전공과 대학을 추천해 주는 전문가 시스템   
   
 📫 연락처:
-- Email: [hyo-jeong.kim@hotmail.com](mailto:hyo-jeong.kim@hotmail.com)
 - Tel: 010-7295-8242
+- Email: [hyo-jeong.kim@hotmail.com](mailto:hyo-jeong.kim@hotmail.com)
 - Web: [http://denverkim.com](http://denverkim.com)    
   
 감사합니다!
