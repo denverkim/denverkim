@@ -3,7 +3,7 @@
 # 👋 안녕하세요! 저는 [덴버킴](https://github.com/denverkim)입니다.
 
 🎓 학력/전공: 콜로라도 대학교 전산정보학 박사  
-💼 현재: 서울과학기술대학에서 시간강사  
+💼 현재: 서울과학기술대학 시간강사  
   
 🧰 사용하는 기술:
 - Languages: Python, JavaScript, Java
