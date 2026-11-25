@@ -21,7 +21,25 @@
 📂 주요 프로젝트:
 - 🌏 [eLmaps (eLearning Maps)](https://cgscholar.com/publishers/articles/elmaps-an-educational-software-application-based-on-principles-of-cognitive-linguistics-and-cognitive-science): 미국 대학생들의 인지능력을 향상시키기 위한 Web 2.0 어플리케이션
 - 🧠 INIA (Integrated Neuroscience Initiative on Alcoholism): 알코올 중독 관련된 형질전환동물 데이터베이스 구축 및 웹 어플리케이션
-- 📓Pre-Admission Counselor: 미국 고등학생들의 적성검사 점수에 따라 전공과 대학을 추천해 주는 전문가 시스템   
+- 📓Pre-Admission Counselor: 미국 고등학생들의 적성검사 점수에 따라 전공과 대학을 추천해 주는 전문가 시스템  
+
+주요 강의:
+- 2026 
+- 2025 업무 효율성을 높이는 AI 활용 방안 | 인구보건복지협회
+- 2025 디지털경영 혁신을 위한 AI 역량강화 교육 | 차세대융합기술연구원
+- 이산수학, 알고리즘, 인공지능 원리의 활용 등 | 다우기술
+- 2024 인공지능 시각 고급 | 수도권 ICT이노베이션
+- 2024 생성형 AI, 프롬프트 엔지니어링, LLM | 한국정보통신진흥협회
+- 2024 생성형 AI, 프롬프트 엔지니어링, 랭체인 | NICE 평가정보
+- 2024 프롬프트 엔지니어링, 머신러닝/딥러닝 (영어강의) | 한국지능정보사회진흥원 (NIA) Information Access Ceter
+- 2023 파이썬 기초, 텍스트 마이닝 강의 | 경찰청
+- 2022 ~ 2023 머신러닝 강의 및 동영상 강의, EDA 및 시각화 | 한국환경공단, 환경부
+- 2022 인공지능 기본 강의 | 한국교통안전공단
+- 2021 SQL, 머신러닝, 인공지능 강의, 포트폴리오 지도 | 한국경영인증원, 서울산업진흥원
+- 2021 데이터 아키텍처 전문가 양성과정 | 농협은행 IT본부
+- 2021 빅데이터, 인공지능 강의 | 멀티캠퍼스
+- 2021 로보틱프로세스 자동화 동영상 강의 | 신한금융, 신세계 I&C
+- 2018 머신러닝, 딥러닝 강의 | 한화S&C
   
 📫 연락처:
 - Tel: 010-7295-8242
